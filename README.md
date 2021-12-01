@@ -1,3 +1,3 @@
 # devops
-Utilizando o git e o github 
-Aula de Git
+Utilizando o git e o github
+Aula 30/11
